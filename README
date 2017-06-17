@@ -1,3 +1,11 @@
+Patch Notes
+============
+
+This version of the source code is identical to the source available at 
+[Sourceforge](https://sourceforge.net/projects/libusb/files/libusb-0.1%20(LEGACY)/0.1.12/)
+except for the `darwin.c` file which has been modified to allow compilation on newer
+OS X / macOS systems.
+
 General Information
 ===================
 
